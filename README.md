@@ -1,16 +1,17 @@
-# cookbook
+# 🍳 AI-Powered Recipe App
 
-A new Flutter project.
+An innovative recipe app that uses AI to help you discover, create, and customize recipes tailored to your preferences, dietary needs, and available ingredients.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **AI Recipe Suggestions**: Get personalized recipe recommendations based on your taste and preferences.
+- **Ingredient-Based Search**: Enter the ingredients you have, and let the AI suggest recipes you can make.
+- **Nutritional Analysis**: View detailed nutritional information for each recipe.
+- **Dietary Preferences**: Filter recipes by dietary needs (e.g., vegan, keto, gluten-free).
+- **Step-by-Step Cooking Guidance**: Interactive instructions to help you cook with ease.
+- **Customizable Recipes**: Adjust servings and ingredient quantities, and the app updates the recipe dynamically.
+- **Community Sharing**: Share your recipes and discover others' creations.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
